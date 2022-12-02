@@ -50,7 +50,6 @@
 #include "rclcpp/rclcpp.hpp"
 
 #include <csm/csm.h>  // csm defines min and max, but Eigen complains
-#include <boost/thread.hpp>
 
 
 namespace scan_tools
